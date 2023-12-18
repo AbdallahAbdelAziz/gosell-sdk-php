@@ -32,11 +32,5 @@
         "tests/TapPayments/"
       ]
     }
-  },
-  "repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/AbdallahAbdelAziz/gosell-sdk-php"
-    }
-  ]
+  }
 }
